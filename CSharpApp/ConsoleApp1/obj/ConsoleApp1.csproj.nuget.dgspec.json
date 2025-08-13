@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stephenucheosedumme/CSharpApp/ConsoleApp1/ConsoleApp1.csproj": {}
+    "/Users/stephenucheosedumme/cSharp/CSharpApp/ConsoleApp1/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/stephenucheosedumme/CSharpApp/ConsoleApp1/ConsoleApp1.csproj": {
+    "/Users/stephenucheosedumme/cSharp/CSharpApp/ConsoleApp1/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stephenucheosedumme/CSharpApp/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/stephenucheosedumme/cSharp/CSharpApp/ConsoleApp1/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/stephenucheosedumme/CSharpApp/ConsoleApp1/ConsoleApp1.csproj",
+        "projectPath": "/Users/stephenucheosedumme/cSharp/CSharpApp/ConsoleApp1/ConsoleApp1.csproj",
         "packagesPath": "/Users/stephenucheosedumme/.nuget/packages/",
-        "outputPath": "/Users/stephenucheosedumme/CSharpApp/ConsoleApp1/obj/",
+        "outputPath": "/Users/stephenucheosedumme/cSharp/CSharpApp/ConsoleApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stephenucheosedumme/.nuget/NuGet/NuGet.Config"
