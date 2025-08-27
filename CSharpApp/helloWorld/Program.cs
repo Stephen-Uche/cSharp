@@ -55,4 +55,8 @@ Console.WriteLine(songLyrics.StartsWith("goodbye"));
 Console.WriteLine(songLyrics.EndsWith("hello"));
 Console.WriteLine(songLyrics.EndsWith("goodbye"));
 
-
+// Fråga användaren om deras namn och hälsa på dem
+Console.WriteLine("Hej på dig!");
+Console.Write("Vad heter du? ");
+string name = Console.ReadLine();
+Console.WriteLine($"Hej {name}!");
