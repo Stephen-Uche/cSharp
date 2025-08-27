@@ -59,4 +59,7 @@ Console.WriteLine(songLyrics.EndsWith("goodbye"));
 Console.WriteLine("Hej på dig!");
 Console.Write("Vad heter du? ");
 string name = Console.ReadLine();
-Console.WriteLine($"Hej {name}!");
+Console.WriteLine($"Hej {name} Välcoma till C# programmering!!");
+// Avsluta programmet
+Console.WriteLine("Tryck på valfri tangent för att avsluta programmet");
+Console.ReadKey();
